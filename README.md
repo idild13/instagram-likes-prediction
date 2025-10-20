@@ -1,6 +1,7 @@
 # Instagram Likes Prediction 📸➡️📈
 
 A machine learning project predicting **Instagram post likes** from follower and engagement data, developed during Le Wagon’s Data Analytics Bootcamp.  
+
 The project demonstrates end-to-end regression modeling — from data cleaning and feature engineering to evaluation and model improvement.
 
 ---
