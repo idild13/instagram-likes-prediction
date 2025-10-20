@@ -68,6 +68,7 @@ After cleaning:
 
 > Adding one historical feature raised R² from **0.13 → 0.56** and reduced prediction error by about **5 likes** on average.
 
+### 👉 [View notebook here](https://github.com/idild13/instagram-likes-prediction/blob/main/notebooks/01_instagram_likes_prediction.ipynb)
 ---
 
 ## 🔒 Ethics & Notes
