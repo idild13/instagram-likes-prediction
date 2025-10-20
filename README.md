@@ -70,21 +70,6 @@ After cleaning:
 
 ---
 
-## 📂 Suggested Repo Structure
-```text
-instagram-likes-prediction/
-├─ notebooks/
-│  └─ 01_instagram_likes_prediction.ipynb
-├─ data/
-│  ├─ raw/                 # (not uploaded to GitHub)
-│  └─ processed/
-├─ reports/figures/
-├─ requirements.txt
-└─ README.md
-```
-
----
-
 ## 🔒 Ethics & Notes
 
 - No personal or identifying data is included.  
