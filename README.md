@@ -25,6 +25,16 @@ This illustrates how a simple additional feature can dramatically improve predic
 
 ---
 
+## 🧩 Project Structure
+```text
+instagram-likes-prediction/
+├── notebooks/
+│   └── 01_instagram_likes_prediction.ipynb
+├── README.md
+└── requirements.txt
+```
+---
+
 ## 📑 Data Overview
 
 - Original dataset: `posts.csv`  
